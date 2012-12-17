@@ -62,7 +62,6 @@
 			isa = PBXGroup;
 			children = (
 				64732979167F9C0500EB5CA3 /* Settings.bundle */,
-				64732977167F995900EB5CA3 /* AudioToolbox.framework */,
 				6473295A167F985B00EB5CA3 /* Vibrate */,
 				64732953167F985B00EB5CA3 /* Frameworks */,
 				64732951167F985B00EB5CA3 /* Products */,
@@ -80,6 +79,7 @@
 		64732953167F985B00EB5CA3 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				64732977167F995900EB5CA3 /* AudioToolbox.framework */,
 				64732954167F985B00EB5CA3 /* UIKit.framework */,
 				64732956167F985B00EB5CA3 /* Foundation.framework */,
 				64732958167F985B00EB5CA3 /* CoreGraphics.framework */,
@@ -308,6 +308,7 @@
 				64732976167F985B00EB5CA3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
