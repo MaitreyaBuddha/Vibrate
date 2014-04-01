@@ -15,7 +15,7 @@
 
 @implementation ViewController
 
-
+//
 
 - (IBAction)Vibrate:(id)sender {
     NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
